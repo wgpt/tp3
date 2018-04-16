@@ -1,0 +1,1709 @@
+[ 2018-04-16T11:32:24+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:17+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:18+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:19+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:19+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:56+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:57+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:57+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:33:57+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:35:36+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:35:37+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:35:37+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:35:38+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:35:38+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T11:36:44+08:00 ] 127.0.0.1 /
+ERR: Class 'Red\Web\Models\AreaModel' not found
+
+[ 2018-04-16T14:50:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T14:50:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T14:50:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T14:55:39+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+
+[ 2018-04-16T14:55:41+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+
+[ 2018-04-16T14:56:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+
+[ 2018-04-16T14:56:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+
+[ 2018-04-16T16:07:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+NOTIC: [8] Undefined offset: 1 H:\tp3\Application\Common\Common\function.php 第 646 行.
+SQL: SHOW COLUMNS FROM `red_area` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_area`  [ RunTime:0.064000s ]
+SQL: SHOW COLUMNS FROM `red_browse_record` [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+SQL: INSERT INTO `red_browse_record` (`ip`,`http_user_agent`,`location`,`user_id`,`create_time`) VALUES ('127.0.0.1','Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36','http://tpm.com/',0,1523866017) [ RunTime:0.013000s ]
+SQL: SHOW COLUMNS FROM `red_category_attribute` [ RunTime:0.009000s ]
+SQL: SELECT `pk_category_id`,`categroy_name`,`ico`,`image` FROM `red_category_attribute`  [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `red_second_category` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 1 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `red_third_category` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '22' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '141' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 2 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '23' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '24' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 3 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '25' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '26' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 4 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '27' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '28' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '30' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '31' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '33' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '34' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 5 ) AND ( `status` = 1 )  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '36' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '37' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '38' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '126' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 6 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '39' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '40' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '41' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '42' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '43' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '46' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '47' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '48' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '143' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 7 ) AND ( `status` = 1 )  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '49' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '50' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '51' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '52' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '53' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '54' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '55' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '56' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '57' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '58' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '59' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '60' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '61' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '62' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.007000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '149' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 8 ) AND ( `status` = 1 )  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '63' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '64' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '65' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '66' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '67' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '68' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '69' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '144' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 9 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '70' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '71' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '72' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '73' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '74' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '75' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '76' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '77' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 10 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '78' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '79' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '80' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '81' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '82' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '83' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '84' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '85' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 11 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '86' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '87' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '146' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 12 ) AND ( `status` = 1 )  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '88' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '89' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '90' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '91' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 13 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '92' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '93' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '94' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '115' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 14 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '95' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '96' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 15 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '100' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '101' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_second_category` WHERE ( `fk_first_category_id` = 16 ) AND ( `status` = 1 )  [ RunTime:0.009000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '145' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.008000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '147' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.010000s ]
+SQL: SELECT * FROM `red_third_category` WHERE ( `fk_second_category_id` = '148' ) AND ( `status` = 1 ) ORDER BY sort desc  [ RunTime:0.009000s ]
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Controller\IndexController.class.php 第 29 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Controller\IndexController.class.php 第 29 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: type H:\tp3\Application\Red\Month\Month.class.php 第 79 行.
+NOTIC: [8] Undefined index: retail_price H:\tp3\Application\Red\Month\Month.class.php 第 83 行.
+NOTIC: [8] Undefined variable: where H:\tp3\Application\Red\Month\Month.class.php 第 107 行.
+SQL: SHOW COLUMNS FROM `red_product` [ RunTime:0.010000s ]
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY create_time desc LIMIT 0,6   [ RunTime:0.158000s ]
+SQL: SHOW COLUMNS FROM `red_activity` [ RunTime:0.009000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866017 ) AND ( red_activity.end_time > 1523866017 ) AND ( red_activity_item.product_id IN ('11767','11742','11739','11738','11737','11734') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: giftList H:\tp3\Application\Red\Month\Month.class.php 第 108 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) AND ( storage >= wholesale ) LIMIT 1   [ RunTime:0.086000s ]
+SQL: SHOW COLUMNS FROM `red_order_item` [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM ( [ RunTime:0.008000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(' at line 1
+ [ SQL语句 ] : SHOW COLUMNS FROM (
+SQL: SELECT * FROM ( SELECT `product_id`,`status`,`have_flag`,sum(quantity) AS `cut` FROM `red_order_item` WHERE ( `date` >= 1521274017 ) AND ( `status` = 1 ) AND ( `have_flag` = 1 ) GROUP BY product_id  ) a ORDER BY cut desc LIMIT 30   [ RunTime:0.050000s ]
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.brand,red_product.colletc_num,red_product.fk_supplier_id,red_product.wholesale,red_product.sale,red_product.false_sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.id IN ('1486','9860','7108','7103','6927','7093','11606','11609','11617','11618','11607','11620','11596','11608','11598','11599','11610','11600','11612','11601','11613','11602','11614','11603','11615','11604','11616','11605','11672','11694') ) AND ( red_product.type NOT IN ('16') ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY field(red_product.id,1486,9860,7108,7103,6927,7093,11606,11609,11617,11618,11607,11620,11596,11608,11598,11599,11610,11600,11612,11601,11613,11602,11614,11603,11615,11604,11616,11605,11672,11694) LIMIT 0,6   [ RunTime:0.012000s ]
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.id IN ('1486','9860','7108','7103','6927','7093','11606','11609','11617','11618','11607','11620','11596','11608','11598','11599','11610','11600','11612','11601','11613','11602','11614','11603','11615','11604','11616','11605','11672','11694') ) AND ( red_product.type NOT IN ('16') ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY field(red_product.id,1486,9860,7108,7103,6927,7093,11606,11609,11617,11618,11607,11620,11596,11608,11598,11599,11610,11600,11612,11601,11613,11602,11614,11603,11615,11604,11616,11605,11672,11694)  [ RunTime:0.010000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866017 ) AND ( red_activity.end_time > 1523866017 ) AND ( red_activity_item.product_id IN ('1486','11606','11617','11618','11607','11596') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: type H:\tp3\Application\Red\Month\Month.class.php 第 79 行.
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( (`retail_price` > 5) AND (`retail_price` <= 9.9)  ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY create_time desc LIMIT 0,6   [ RunTime:0.107000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866017 ) AND ( red_activity.end_time > 1523866017 ) AND ( red_activity_item.product_id IN ('11767','11742','11733','11731','11726','11724') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: giftList H:\tp3\Application\Red\Month\Month.class.php 第 108 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( (`retail_price` > 5) AND (`retail_price` <= 9.9)  ) AND ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) AND ( storage >= wholesale ) LIMIT 1   [ RunTime:0.084000s ]
+NOTIC: [8] Undefined index: type H:\tp3\Application\Red\Month\Month.class.php 第 79 行.
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( (`retail_price` >= 2) AND (`retail_price` <= 5)  ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY create_time desc LIMIT 0,6   [ RunTime:0.095000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866017 ) AND ( red_activity.end_time > 1523866017 ) AND ( red_activity_item.product_id IN ('11659','11658','11657','11618','11617','11616') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: giftList H:\tp3\Application\Red\Month\Month.class.php 第 108 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( (`retail_price` >= 2) AND (`retail_price` <= 5)  ) AND ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) AND ( storage >= wholesale ) LIMIT 1   [ RunTime:0.095000s ]
+SQL: SHOW COLUMNS FROM `red_scan_record` [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: red_cart_user H:\tp3\Application\Red\Product\Models\ScanRecordModel.class.php 第 66 行.
+NOTIC: [8] Undefined index: red_cart_user H:\tp3\Application\Red\Product\Models\ScanRecordModel.class.php 第 67 行.
+SQL: SELECT * FROM `red_scan_record` WHERE ( `gid` = null ) LIMIT 1   [ RunTime:0.012000s ]
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Red\Product\Product.class.php 第 194 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Common\Controller\BaseController.class.php 第 88 行.
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY red_product.create_time desc LIMIT 0,30   [ RunTime:0.128000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866017 ) AND ( red_activity.end_time > 1523866017 ) AND ( red_activity_item.product_id IN ('11767','11742','11739','11738','11737','11734','11733','11731','11726','11724','11723','11722','11720','11717','11716','11715','11712','11711','11698','11697','11696','11695','11694','11693','11692','11691','11690','11689','11673','11672') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.010000s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) LIMIT 1   [ RunTime:0.083000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: is_login H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 31 行.
+NOTIC: [8] Undefined variable: is_login H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 64 行.
+NOTIC: [8] Use of undefined constant APP_Web_Url - assumed 'APP_Web_Url' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 71 行.
+NOTIC: [8] Use of undefined constant CART_URL - assumed 'CART_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 84 行.
+NOTIC: [8] Undefined variable: params H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 124 行.
+NOTIC: [8] Undefined variable: search_key H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 124 行.
+NOTIC: [8] Use of undefined constant WAP_URL - assumed 'WAP_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 142 行.
+NOTIC: [8] Undefined variable: html H:\tp3\Application\Web\Widget\NavWidget.class.php 第 12 行.
+NOTIC: [8] Undefined variable: s_html H:\tp3\Application\Web\Widget\NavWidget.class.php 第 15 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Widget\NavWidget.class.php 第 20 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Widget\NavWidget.class.php 第 20 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Widget\NavWidget.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.147000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined variable: is_login H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 257 行.
+NOTIC: [8] Undefined offset: 11767 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11742 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11739 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11738 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11737 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11734 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11733 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11731 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11726 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11724 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11723 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11722 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11720 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11717 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11716 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11715 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11712 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11711 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11698 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11697 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11696 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11695 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11694 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11693 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11692 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11691 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11690 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11689 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11673 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11672 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Use of undefined constant ACTIVITY_URL - assumed 'ACTIVITY_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 913 行.
+NOTIC: [8] Use of undefined constant ITEM_URL_DETAIL - assumed 'ITEM_URL_DETAIL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 917 行.
+NOTIC: [8] Use of undefined constant CART_URL - assumed 'CART_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 917 行.
+NOTIC: [8] Use of undefined constant LOGIN_WEB - assumed 'LOGIN_WEB' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 917 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.015000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:07:00+08:00 ] 127.0.0.1 /Public/Css/base.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:00+08:00 ] 127.0.0.1 /Public/Css/swiper.min.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:00+08:00 ] 127.0.0.1 /Public/Css/Web/index_c.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:00+08:00 ] 127.0.0.1 /Public/Css/com.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:00+08:00 ] 127.0.0.1 /Public/Css/leftSlider.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+NOTIC: [8] Undefined offset: 1 H:\tp3\Application\Common\Common\function.php 第 646 行.
+SQL: SHOW COLUMNS FROM `red_browse_record` [ RunTime:0.012000s ]
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+SQL: INSERT INTO `red_browse_record` (`ip`,`http_user_agent`,`location`,`user_id`,`create_time`) VALUES ('127.0.0.1','Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36','http://tpm.com/',0,1523866020) [ RunTime:0.018000s ]
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Controller\IndexController.class.php 第 29 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Controller\IndexController.class.php 第 29 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: type H:\tp3\Application\Red\Month\Month.class.php 第 79 行.
+NOTIC: [8] Undefined index: retail_price H:\tp3\Application\Red\Month\Month.class.php 第 83 行.
+NOTIC: [8] Undefined variable: where H:\tp3\Application\Red\Month\Month.class.php 第 107 行.
+SQL: SHOW COLUMNS FROM `red_product` [ RunTime:0.017000s ]
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY create_time desc LIMIT 0,6   [ RunTime:0.123000s ]
+SQL: SHOW COLUMNS FROM `red_activity` [ RunTime:0.011000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866020 ) AND ( red_activity.end_time > 1523866020 ) AND ( red_activity_item.product_id IN ('11767','11742','11739','11738','11737','11734') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.012000s ]
+NOTIC: [8] Undefined index: giftList H:\tp3\Application\Red\Month\Month.class.php 第 108 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) AND ( storage >= wholesale ) LIMIT 1   [ RunTime:0.097000s ]
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.brand,red_product.colletc_num,red_product.fk_supplier_id,red_product.wholesale,red_product.sale,red_product.false_sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.id IN ('1486','9860','7108','7103','6927','7093','11606','11609','11617','11618','11607','11620','11596','11608','11598','11599','11610','11600','11612','11601','11613','11602','11614','11603','11615','11604','11616','11605','11672','11694') ) AND ( red_product.type NOT IN ('16') ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY field(red_product.id,1486,9860,7108,7103,6927,7093,11606,11609,11617,11618,11607,11620,11596,11608,11598,11599,11610,11600,11612,11601,11613,11602,11614,11603,11615,11604,11616,11605,11672,11694) LIMIT 0,6   [ RunTime:0.015000s ]
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.id IN ('1486','9860','7108','7103','6927','7093','11606','11609','11617','11618','11607','11620','11596','11608','11598','11599','11610','11600','11612','11601','11613','11602','11614','11603','11615','11604','11616','11605','11672','11694') ) AND ( red_product.type NOT IN ('16') ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY field(red_product.id,1486,9860,7108,7103,6927,7093,11606,11609,11617,11618,11607,11620,11596,11608,11598,11599,11610,11600,11612,11601,11613,11602,11614,11603,11615,11604,11616,11605,11672,11694)  [ RunTime:0.011000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866020 ) AND ( red_activity.end_time > 1523866020 ) AND ( red_activity_item.product_id IN ('1486','11606','11617','11618','11607','11596') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.011000s ]
+NOTIC: [8] Undefined index: type H:\tp3\Application\Red\Month\Month.class.php 第 79 行.
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( (`retail_price` > 5) AND (`retail_price` <= 9.9)  ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY create_time desc LIMIT 0,6   [ RunTime:0.121000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866020 ) AND ( red_activity.end_time > 1523866020 ) AND ( red_activity_item.product_id IN ('11767','11742','11733','11731','11726','11724') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.011000s ]
+NOTIC: [8] Undefined index: giftList H:\tp3\Application\Red\Month\Month.class.php 第 108 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( (`retail_price` > 5) AND (`retail_price` <= 9.9)  ) AND ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) AND ( storage >= wholesale ) LIMIT 1   [ RunTime:0.090000s ]
+NOTIC: [8] Undefined index: type H:\tp3\Application\Red\Month\Month.class.php 第 79 行.
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( (`retail_price` >= 2) AND (`retail_price` <= 5)  ) AND ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY create_time desc LIMIT 0,6   [ RunTime:0.097000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866020 ) AND ( red_activity.end_time > 1523866020 ) AND ( red_activity_item.product_id IN ('11659','11658','11657','11618','11617','11616') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.012000s ]
+NOTIC: [8] Undefined index: giftList H:\tp3\Application\Red\Month\Month.class.php 第 108 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( (`retail_price` >= 2) AND (`retail_price` <= 5)  ) AND ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) AND ( storage >= wholesale ) LIMIT 1   [ RunTime:0.089000s ]
+SQL: SHOW COLUMNS FROM `red_scan_record` [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: red_cart_user H:\tp3\Application\Red\Product\Models\ScanRecordModel.class.php 第 66 行.
+NOTIC: [8] Undefined index: red_cart_user H:\tp3\Application\Red\Product\Models\ScanRecordModel.class.php 第 67 行.
+SQL: SELECT * FROM `red_scan_record` WHERE ( `gid` = null ) LIMIT 1   [ RunTime:0.012000s ]
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Red\Product\Product.class.php 第 194 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Common\Controller\BaseController.class.php 第 88 行.
+NOTIC: [8] Undefined variable: field H:\tp3\Application\Red\Common\BaseCommon.class.php 第 68 行.
+NOTIC: [8] Undefined index: red_product.barcode H:\tp3\Application\Red\Product\Models\ProductModel.class.php 第 169 行.
+SQL: SELECT red_product.id,red_product.name,red_product.price,red_product.retail_price,red_product.sale,red_product.type,red_product_image.product_img FROM `red_product` INNER JOIN red_product_image on red_product.id = red_product_image.product_id  WHERE ( red_product.status = 1 ) AND ( red_product.onsale = 1 ) AND ( red_product_image.status = 1 ) AND ( red_product_image.cover = 1 ) AND ( red_product.storage > 0 ) AND ( red_product.storage >= red_product.wholesale ) ORDER BY red_product.create_time desc LIMIT 0,30   [ RunTime:0.120000s ]
+NOTIC: [8] Undefined variable: fields H:\tp3\Application\Red\Web\Models\ActivityModel.class.php 第 145 行.
+SQL: SELECT red_activity.id,red_activity.start_time,red_activity.a_name,red_activity.calculation,red_activity.end_time,red_activity.activity_type_name,red_activity.fk_activity_type_id,red_activity.condition_1,red_activity.condition_2,red_activity_item.product_id,red_activity_item.reward,red_activity_item.reward_storage,red_activity_item.rewarded,red_activity_item.status FROM `red_activity` INNER JOIN red_activity_item on red_activity.id = red_activity_item.aid  WHERE ( red_activity.start_time < 1523866020 ) AND ( red_activity.end_time > 1523866020 ) AND ( red_activity_item.product_id IN ('11767','11742','11739','11738','11737','11734','11733','11731','11726','11724','11723','11722','11720','11717','11716','11715','11712','11711','11698','11697','11696','11695','11694','11693','11692','11691','11690','11689','11673','11672') ) AND ( red_activity_item.status = 1 )  [ RunTime:0.013000s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `red_product` WHERE ( `onsale` = 1 ) AND ( `status` = 1 ) AND ( `storage` > 0 ) LIMIT 1   [ RunTime:0.086000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: is_login H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 31 行.
+NOTIC: [8] Undefined variable: is_login H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 64 行.
+NOTIC: [8] Use of undefined constant APP_Web_Url - assumed 'APP_Web_Url' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 71 行.
+NOTIC: [8] Use of undefined constant CART_URL - assumed 'CART_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 84 行.
+NOTIC: [8] Undefined variable: params H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 124 行.
+NOTIC: [8] Undefined variable: search_key H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 124 行.
+NOTIC: [8] Use of undefined constant WAP_URL - assumed 'WAP_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 142 行.
+NOTIC: [8] Undefined variable: html H:\tp3\Application\Web\Widget\NavWidget.class.php 第 12 行.
+NOTIC: [8] Undefined variable: s_html H:\tp3\Application\Web\Widget\NavWidget.class.php 第 15 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Widget\NavWidget.class.php 第 20 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Widget\NavWidget.class.php 第 20 行.
+NOTIC: [2] Invalid argument supplied for foreach() H:\tp3\Application\Web\Widget\NavWidget.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.131000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined variable: is_login H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 257 行.
+NOTIC: [8] Undefined offset: 11767 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11742 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11739 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11738 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11737 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11734 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11733 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11731 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11726 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11724 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11723 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11722 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11720 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11717 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11716 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11715 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11712 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11711 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11698 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11697 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11696 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11695 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11694 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11693 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11692 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11691 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11690 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11689 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11673 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Undefined offset: 11672 H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 715 行.
+NOTIC: [8] Use of undefined constant ACTIVITY_URL - assumed 'ACTIVITY_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 913 行.
+NOTIC: [8] Use of undefined constant ITEM_URL_DETAIL - assumed 'ITEM_URL_DETAIL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 917 行.
+NOTIC: [8] Use of undefined constant CART_URL - assumed 'CART_URL' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 917 行.
+NOTIC: [8] Use of undefined constant LOGIN_WEB - assumed 'LOGIN_WEB' H:\tp3\Runtime\Cache\Web\83f8d1d2b27e2c4f9b08accdf1c9061d.php 第 917 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.015000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/footer.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/effect.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/base.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/com.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/effect.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/leftSlider.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/Web/index_c.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/swiper.min.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Css/footer.css?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Js/config.js?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:01+08:00 ] 127.0.0.1 /Public/Js/require.js?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:07:02+08:00 ] 127.0.0.1 /Public/Js/config.js?v=abcnkidjbem20171103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:08:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+NOTIC: [8] Undefined offset: 1 H:\tp3\Application\Common\Common\function.php 第 646 行.
+ERR: Class 'Red\Web\Models\BrowseRecordModel' not found
+
+[ 2018-04-16T16:09:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+NOTIC: [8] Undefined offset: 1 H:\tp3\Application\Common\Common\function.php 第 646 行.
+ERR: Class 'Red\Web\Models\BrowseRecordModel' not found
+
+[ 2018-04-16T16:09:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+NOTIC: [8] Undefined index: red_account H:\tp3\Application\Common\Common\function.php 第 645 行.
+NOTIC: [8] Undefined offset: 1 H:\tp3\Application\Common\Common\function.php 第 646 行.
+ERR: Class 'Red\Web\Models\BrowseRecordModel' not found
+
+[ 2018-04-16T16:10:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:10:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:11:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:11:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:11:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:11:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:11:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:11:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:11:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:12:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:12:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:14:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:14:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:15:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:15:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:15:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-04-16T16:16:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:16:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:16:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:16:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:17:17+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:17:22+08:00 ] 127.0.0.1 /model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Controler can't be loaded:Model
+
+[ 2018-04-16T16:17:39+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:17:40+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:19:46+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:19:46+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:20:45+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:20:46+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:22:01+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:22:12+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:22:28+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:22:39+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:22:39+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:23:05+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:23:05+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:23:05+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:31:08+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:31:09+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:31:58+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:31:59+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:31:59+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:33:32+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-04-16T16:34:17+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:34:18+08:00 ] 127.0.0.1 /web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_VIA H:\tp3\Application\Common\Common\function.php 第 211 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-04-16T16:44:30+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T16:44:30+08:00 ] 127.0.0.1 /Public/Js/jquery-2.1.3.min.js?v=__STATIC_VERSION__
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:44:30+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T16:44:30+08:00 ] 127.0.0.1 /Public/Js/jquery-2.1.3.min.js?v=__STATIC_VERSION__
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:44:32+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /Public/Js/jquery-2.1.3.min.js?v=__STATIC_VERSION__
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /Public/Js/jquery-2.1.3.min.js?v=__STATIC_VERSION__
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /Public/Js/jquery-2.1.3.min.js?v=__STATIC_VERSION__
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T16:44:33+08:00 ] 127.0.0.1 /Public/Js/jquery-2.1.3.min.js?v=__STATIC_VERSION__
+ERR: Controler can't be loaded:Public
+
+[ 2018-04-16T16:44:41+08:00 ] 127.0.0.1 /web
+ERR: Call to undefined function Web\Controller\check_wap()
+
+[ 2018-04-16T17:38:31+08:00 ] 127.0.0.1 /c
+ERR: Controler can't be loaded:C
+
+[ 2018-04-16T17:59:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
