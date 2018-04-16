@@ -34,7 +34,7 @@ class StaticService{
     /**
      * 缓存实例化过的对象
      * @param string $name 类名
-     * @return 对象
+     * @return object
      */
     public static function getInstance($name){
 		$key = 'service_@_'.$name;
