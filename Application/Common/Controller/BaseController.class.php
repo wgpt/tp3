@@ -1,4 +1,7 @@
 <?php
+/**
+ * 页面操作中心
+ * */
 
 namespace Common\Controller;
 use Think\Controller;

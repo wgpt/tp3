@@ -45,9 +45,9 @@ return array(
 
     /* 数据库设置 */
     'DB_TYPE'               =>  'mysqli',     // 数据库类型
-    'DB_HOST'               =>  '', // 本地
-    'DB_NAME'               =>  '',          // 数据库名
-    'DB_USER'               =>  '',      // 用户名
+    'DB_HOST'               =>  '134.12.1.1', // 本地
+    'DB_NAME'               =>  'bac',          // 数据库名
+    'DB_USER'               =>  'root',      // 用户名
     'DB_PWD'                =>  '',          // 密码
     'DB_PORT'               =>  '3306',        // 端口
     'DB_PREFIX'             =>  '',    // 数据库表前缀
@@ -61,7 +61,7 @@ return array(
     'DB_SQL_BUILD_CACHE'    =>  false, // 数据库查询的SQL创建缓存
     'DB_SQL_BUILD_QUEUE'    =>  'file',   // SQL缓存队列的缓存方式 支持 file xcache和apc
     'DB_SQL_BUILD_LENGTH'   =>  20, // SQL缓存的队列长度
-    'DB_SQL_LOG'            =>  false, // SQL执行日志记录
+    'DB_SQL_LOG'            =>  true, // SQL执行日志记录
     'DB_BIND_PARAM'         =>  false, // 数据库写入数据自动参数绑定
 
     /* 数据缓存设置 */
@@ -77,7 +77,7 @@ return array(
     /* 错误设置 */
     'ERROR_MESSAGE'         =>  '页面错误！请稍后再试～',//错误显示信息,非调试模式有效
     'ERROR_PAGE'            =>  '',	// 错误定向页面
-    'SHOW_ERROR_MSG'        =>  false,    // 显示错误信息
+    'SHOW_ERROR_MSG'        =>  true,    // 显示错误信息
     'TRACE_MAX_RECORD'      =>  100,    // 每个级别的错误信息 最大记录数
 
     /* 日志设置 */
@@ -98,7 +98,7 @@ return array(
     'TMPL_CONTENT_TYPE'     =>  'text/html', // 默认模板输出类型
     'TMPL_ACTION_ERROR'     =>  THINK_PATH.'Tpl/dispatch_jump.tpl', // 默认错误跳转对应的模板文件
     'TMPL_ACTION_SUCCESS'   =>  THINK_PATH.'Tpl/dispatch_jump.tpl', // 默认成功跳转对应的模板文件
-    'TMPL_EXCEPTION_FILE'   =>  PUBLIC_PATH.'404.html',// 异常页面的模板文件
+    'TMPL_EXCEPTION_FILE'   =>  THINK_PATH.'Tpl/think_exception.tpl',// 异常页面的模板文件
     'TMPL_DETECT_THEME'     =>  false,       // 自动侦测模板主题
     'TMPL_TEMPLATE_SUFFIX'  =>  '.html',     // 默认模板文件后缀
     'TMPL_FILE_DEPR'        =>  '/', //模板文件CONTROLLER_NAME与ACTION_NAME之间的分割符

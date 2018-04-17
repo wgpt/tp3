@@ -1,17 +1,18 @@
 <?php
 /**
  * 共同类
- * BaseCommon.class.php
+ * Base.class.php
  */
 
-namespace Model\Common;
+namespace MDP;
+use Server\ServiceInterFace;
 use Server\StaticService;
 
-class BaseCommon {
+abstract class Base implements ServiceInterFace {
 
     /**
      * 实例化对象
-     * @return object BaseCommon
+     * @return Base
      */
     public static function getInstance() {
         return StaticService::getInstance(__CLASS__);
