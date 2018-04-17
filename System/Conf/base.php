@@ -16,7 +16,7 @@ return array(
     'APP_DOMAIN_SUFFIX'     =>  'cn', // 域名后缀 如果是com.cn net.cn 之类的后缀必须设置
     'ACTION_SUFFIX'         =>  '', // 操作方法后缀
     'MULTI_MODULE'          =>  true, // 是否允许多模块 如果为false 则必须设置 DEFAULT_MODULE
-    'MODULE_DENY_LIST'      =>  array('Common','Runtime','Model','Server'),
+    'MODULE_DENY_LIST'      =>  array('Common','Runtime','Model','Server','MDP'),
     'MODULE_ALLOW_LIST'     => array('Web'),
     'CONTROLLER_LEVEL'      =>  1,
     'APP_AUTOLOAD_LAYER'    =>  'Controller,Model', // 自动加载的应用类库层 关闭APP_USE_NAMESPACE后有效
